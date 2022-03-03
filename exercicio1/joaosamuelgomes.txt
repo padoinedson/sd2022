@@ -1,0 +1,26 @@
+V - Questões de projeto de SD
+
+Gmail
+
+1. Transparência
+Interfaces de email como é o caso do Gmail tem objetivos claros e sua interface variou muito pouco com o passar dos anos, 
+no geral tem um visual bem definido e de fácil acesso o que possibilita o usuário ter acesso aos dados de maneira simples.
+
+2. Heterogeneidade
+Muito bem assegurado nessa parte, possibilita o acesso em diferentes plataformas (PC, Tablet, Celular) e em diversos sistemas operacionais.
+
+3.Flexibilidade
+Componentes bem definidos o que possibilita uma excelente flexibilidade ao mesmo.
+
+4.Segurança
+Muito seguro, senha, verificação de duas etapas e métodos de recuperação.
+
+5.Escalabilidade
+Bem escalável, podendo haver aumento da quantidade de dados em circulação em paralelo ao aumento de locais onde esses dados estarão armazenados.
+
+6. Confiabilidade e Tolerância a falhas
+Confiável e tolerante a falhas possuindo métodos para identifica-las e corrigi-las sem que o usuário seja afetado.
+
+7. Concorrência
+É possível que várias requisições aconteçam ao mesmo tempo, e que a partir de vários dispositivos seja possível o acesso de uma mesma informação, ao mesmo tempo.
+
