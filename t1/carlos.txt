@@ -1,0 +1,5 @@
+nome: carlos
+
+problema: barbeiro dorminhoco
+
+descrição: manter o barbeiro e os clientes fora de condição de disputa, usando semáforo binário.
