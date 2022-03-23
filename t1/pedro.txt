@@ -1,0 +1,5 @@
+nome: Pedro
+
+problema: token ring
+
+descrição: se trata de um algoritmo que funciona em uma serie de processos dispostos em formato de anel, onde um token vai ser passado por cada elemento o permitindo utilizar o recurso e logo após o passando adiante.
