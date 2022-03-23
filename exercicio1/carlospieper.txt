@@ -1,0 +1,17 @@
+Nome do Sistema: Netflix
+
+Avaliação do Sistema:
+
+1 - Transparência: Sistema completamente transparente, acessando em duas máquinas diferentes não há diferença na interface ou no funcionamento do sistema
+
+2 - Heterogeneidade: Pode ser utilizado em diversos tipos de dispositivos e sistemas.
+
+3 - Flexibilidade: 
+
+4 - Segurança:
+
+5 - Escalabilidade:
+
+6 - Tolerância a Falhas: 
+
+7 - Concorrência: 
