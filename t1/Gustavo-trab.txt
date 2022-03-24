@@ -1,0 +1,5 @@
+nome: Gustavo Welter Obadowski
+
+problema: Algoritmo em Anel
+
+descrição: É utilizado em topologias em anel, compara os IDs para ver qual o maior. O processo P0 inicia a eleição que manda uma mensagem com seu ID para o P1, o maior ID vai comparar com o prox. É eleito o líder quando o Pn receber seu próprio ID.
