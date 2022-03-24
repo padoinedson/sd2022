@@ -1,0 +1,5 @@
+Nome: João Samuel Gomes
+
+Problema: Algoritmo de Bully
+
+Descrição: Em sistemas distribuídos, o algoritmo de intimidação (Bully) é um método para eleger dinamicamente um coordenador ou líder de um grupo de processos computacionais distribuídos. O processo com o maior número de ID do processo dentre os processos que não falharam é selecionado como coordenador.
