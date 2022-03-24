@@ -1,0 +1,10 @@
+Sabrina Kalaitzis
+
+algoritmo: Jantar dos filósofos 
+
+Como funciona:
+Cinco filósofos estão sentados em uma mesa de jantar, eles  tem duas ações que é comer e pensar, mas eles não podem fazer os dois ao mesmo tempo, se um filosofo come os outros tem que ficar pensando.
+
+Cada filósofo tem um prato de espaguete, cada prato tem apenas um garfo, um filosofo pode pegar garfos da esquerda ou da direita sem se importar com a ordem, mas pra conseguir comer ele precisa de dois garfos. Os filosofos precisam compartilhar o garfo entre eles.
+Mas um filósofo não pode pegar um garfo quando o vizinho tiver usando ele, ele tem que esperar, o garfo vizinho ser liberado, então ele vai ficar parado pensando, quando o filósofo tiver os dois garfos, ele come por determinado tempo e não larga até terminar de comer.
+Quem precisar do garfo precisa ficar esperando até que ele pare de comer.
