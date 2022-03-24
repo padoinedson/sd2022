@@ -1,0 +1,3 @@
+nome: Fernanda Sereno
+problema: Algoritmo do Jantar dos Filósofos
+descricao: Ele é um algoritmo de sincronização de exclusão mútua que tem como objetivo resolver problemas de deadlock e starvation. Cinco filósofos estão ao redor de uma mesa, cada um deles tem um prato de espaguete, cada prato tem um garfo. Os filósofos só conseguem comer com dois garfos, então eles tem que compartilhar os garfos entre eles. O ideal é ter um algoritmo que consiga fazer isso sem que nenhum dos filósofos fique travado sem comer, entre outros. 

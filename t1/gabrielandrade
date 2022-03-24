@@ -1,0 +1,13 @@
+gabriel de andrade
+
+problema: produtor consumidor
+
+descrição:
+Um sistema é composto por entidades produtoras e entidades consumidoras. 
+ Entidades produtoras
+ -Responsáveis pela produção de itens que são armazenados em um buffer (ou em uma fila) .
+- Itens produzidos podem ser consumidos por qualquer consumidor .
+ Entidades consumidoras  
+-Consomem os itens armazenados no buffer (ou na fila).
+- Itens consumidos podem ser de qualquer produtor.
+

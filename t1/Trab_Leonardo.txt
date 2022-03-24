@@ -1,0 +1,5 @@
+Nome: Leonardo Grizotti Meotti
+
+Algoritmo: Algoritmo em anel
+
+Descrição: O algoritmo em anel ou LCR, iniciais de Le Lann, Chang e Roberts, serve para eleger um líder se os processos estiverem dispostos em um anel. Cada processo deve conhecer seu vizinho à direita e à esquerda e deve ter um identificador numérico, único, fixo e atribuído antes do início da eleição.
