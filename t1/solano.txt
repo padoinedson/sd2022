@@ -1,0 +1,5 @@
+nome: Solano Kruger
+
+problema: Problema do Produtor-Consumidor
+
+descricao: Consiste no problema de acesso a um local, onde os produtores produzem os dados e colocam em um buffer e os consumidores retiram essa informacao de la.
