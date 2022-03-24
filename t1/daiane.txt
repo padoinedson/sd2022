@@ -1,0 +1,5 @@
+nome: daiane stevens
+
+problema: O problema é programar o barbeiro e os clientes sem cair em condições de disputa.
+
+descrição: O objetivo é se não há clientes, o barbeiro senta-se na cadeira do barbeiro e cai no sono. Se outros clientes chegarem enquanto o barbeiro estiver cortando o cabelo de um cliente, eles se sentarão ou sairão da barbearia, caso todas cadeiras estiverem ocupadas. Pode ser utilizado o semaforo binário para não ocorrer condições de disputa. 
