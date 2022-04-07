@@ -3,3 +3,6 @@ nome: carlos pieper
 problema: barbeiro dorminhoco
 
 descrição: manter o barbeiro e os clientes fora de condição de disputa, usando semáforo binário.
+
+
+Melhor algoritmo de eleição - anel pois é o que dispara menos mensagens, sendo o mais rapido
