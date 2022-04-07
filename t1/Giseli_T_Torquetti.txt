@@ -6,3 +6,6 @@ Nome: Giseli T Torquetti
     Descrição:
         Quando um processo em sistemas distribuídos nota que o coordenador não está respondendo, todos revogam seus trabalhos e se inicia uma eleição para o novo coordenador.
         
+Qual o melhor algoritmo de eleição?
+A melhor opção de algoritmo de eleição depende do problema. Porém o Algoritmo Anel é bem eficiente.
+
