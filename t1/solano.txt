@@ -1,4 +1,4 @@
-nome: Solano Kruger
+Nome: Solano Kruger
 
 problema: Problema do Produtor-Consumidor
 
