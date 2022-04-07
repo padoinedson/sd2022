@@ -1,5 +1,5 @@
-Nome: Mauricio Lindemann
+Qual o melhor algoritmo de eleição?
 
-Problema: Algoritmo de Peterson
+O Melhor Algoritmo de eleição é o Algoritmo do Anel
 
-Descrição: É um algoritmo de programação concorrente para exclusão mútua, que permite a dois ou mais processos ou subprocessos compartilharem um recurso sem conflitos, utilizando apenas memória compartilhada para a comunicação.A solução original de peterson foi formulada para trabalhar originalmente com apenas 2 processos, ao longo dos anos foi aperfeiçoada, é uma solução a  nível de software simples e eficaz mas que não é vastamente utilizada devido a suas limitações para trabalhar com um alto número de processos.
+Mauricio Lindemann

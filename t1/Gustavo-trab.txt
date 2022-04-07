@@ -3,3 +3,5 @@ nome: Gustavo Welter Obadowski
 problema: Algoritmo em Anel
 
 descrição: É utilizado em topologias em anel, compara os IDs para ver qual o maior. O processo P0 inicia a eleição que manda uma mensagem com seu ID para o P1, o maior ID vai comparar com o prox. É eleito o líder quando o Pn receber seu próprio ID.
+
+O Algoritmo em Anel precisa checar todos os Processos para poder eleger um processo-líder a topologia dele é em anel e a mensagem transita em sentido horário. Não usa tantas mensagens e isso faz com que ele seja mais ágil que o Algoritmo de Bully e o Algoritmo Ditador.
