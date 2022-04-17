@@ -1,0 +1,33 @@
+Escolha um sistema ou serviço de SD e avalie as seguintes questões de projeto
+
+1 - Transparência
+
+O linkedin exibe ao usuário uma interface amigável e intuitiva, onde é possível visualizar e compreender as funções do aplicativo.
+
+2 - Heterogeneidade
+
+O LinkedIn mantém ótimas performances independentemente do sistema operacional, também podendo ser acessado em diferentes dispositivos
+como smartphones, computadores, tablets e etc.
+
+3 - Flexibilidade
+
+O sistema distribuído é um modelo flexível pois consegue ser implementado e re-implementado, garantindo novas funcionalidades e melhorias.
+
+4 - Segurança
+
+De acordo com a Insider Intelligence o LinkedIn está em primeiro lugar quando se fala em confiança na segurança de dados. O serviço também
+conta com verificação em duas etapas que é opcional ao usuário, tendo o mesmo o controle de desativar ou ativar a funcionalidade.
+
+5 - Escalabilidade
+
+O serviço LinkedIn se enquadra como escalável, visto que a entrada de mais usuários e o aumento na quantidade de dados não interfere em seu
+funcionamento. 
+
+6 - Tolerância a Falhas
+
+Mesmo podendo apresentar certas falhas em seus componentes, o sistema distribuído consegue garantir uma correta operação de seus sistemas.
+
+7 - Concorrência
+
+O LinkedIn consegue de maneira eficaz comportar múltiplos e múltiplos usuários mantendo consistência em seus dados e possibilitando o acesso
+de uma mesma informação em dispositivos distintos.
