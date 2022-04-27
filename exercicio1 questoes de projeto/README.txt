@@ -29,3 +29,10 @@ Avaliar as 7 questões de projeto:
 Entrega do trabalho:
 --------------------
 
+
+Entrega do trabalho:
+--------------------
+- Entregar no classroom um arquivo (nome.txt) com as respostas
+
+
+
