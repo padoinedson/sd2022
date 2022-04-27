@@ -14,5 +14,5 @@ Descrição da atividade:
 Entrega do trabalho:
 --------------------
 
-- Entregar no github um arquivo com o seu nome:
+- Entregar no github um arquivo com o (seu_nome.jpg):
 	- print da tela com a conexão realizada

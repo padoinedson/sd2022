@@ -2,7 +2,7 @@ Sistemas Distribuídos
 Exercício I - Questões de projeto
 =============================================================
 
-## Descrição da atividade:
+Descrição da atividade:
 -----------------------
 
 

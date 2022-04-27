@@ -17,7 +17,7 @@ $	scp arquivo.txt labinf@200.132.195.142:/home/labinf/seu-nome
 
 Entrega do trabalho:
 --------------------
-- Entregar no classroom um arquivo com o seu nome: 
+- Entregar no classroom um arquivo com o (seu_nome.jpg): 
 	- print da cópia de um arquivo sem necessidade de senha
 
 
