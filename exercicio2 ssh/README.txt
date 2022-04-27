@@ -9,3 +9,11 @@ Descrição da atividade:
 - instalar ssh (dicas em ssh.md github.com/padoinedson/tips)
 - configurar o ssh da VM para receber conexão sem senha (dicas em ssh.md github.com/padoinedson/tips)
 
+Entrega do trabalho:
+--------------------
+- não é necessário realizar a entrega
+
+
+
+
+
