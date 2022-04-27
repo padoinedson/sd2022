@@ -17,8 +17,8 @@ $	scp arquivo.txt labinf@200.132.195.142:/home/labinf/seu-nome
 
 Entrega do trabalho:
 --------------------
-- Entregar no github um arquivo com o seu nome: 
-	- do print da cópia de um arquivo sem necessidade de senha
+- Entregar no classroom um arquivo com o seu nome: 
+	- print da cópia de um arquivo sem necessidade de senha
 
 
 
