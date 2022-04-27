@@ -20,7 +20,7 @@ Avaliar as 7 questões de projeto:
 
 Entrega do trabalho:
 --------------------
-- Entregar no classroom um arquivo (nome.txt) com as respostas
+- Entregar no github pasta `exercicio 1` um arquivo (seu_nome.txt) com as respostas
 
 
 
