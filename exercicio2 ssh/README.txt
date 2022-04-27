@@ -1,5 +1,5 @@
 Sistemas Distribuídos
-Exercício II - SSH 
+Exercício SSH 
 =============================================================
 
 Descrição da atividade:

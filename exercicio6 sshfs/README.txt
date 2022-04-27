@@ -1,5 +1,5 @@
 Sistemas Distribuídos
-Exercício VI - NFS
+Exercício NFS
 =============================================================
 
 Descrição da atividade:
