@@ -1,5 +1,5 @@
 Sistemas Distribuídos
-Trabalho II - Virtualização/cloud
+Trabalho II - Virtualização/Cloud
 Peso: 10 pontos
 =============================================================
 
