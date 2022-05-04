@@ -1,9 +1,10 @@
-- qual é o melhor algoritmo de eleição?
- Anel
+Pergunta dos trabalhos apresentados
+- Qual é o melhor algoritmo de eleição?
+ O algoritmo de Anel
 
 
-nome: daiane stevens
+Nome: Daiane Stevens
 
-problema: O problema é programar o barbeiro e os clientes sem cair em condições de disputa.
+Problema de Exclusão Mútua: O problema é programar o barbeiro e os clientes sem cair em condições de disputa.
 
-descrição: O objetivo é se não há clientes, o barbeiro senta-se na cadeira do barbeiro e cai no sono. Se outros clientes chegarem enquanto o barbeiro estiver cortando o cabelo de um cliente, eles se sentarão ou sairão da barbearia, caso todas cadeiras estiverem ocupadas. Pode ser utilizado o semaforo binário para não ocorrer condições de disputa. 
+Descrição: O objetivo é se não há clientes, o barbeiro senta-se na cadeira do barbeiro e cai no sono. Se outros clientes chegarem enquanto o barbeiro estiver cortando o cabelo de um cliente, eles se sentarão ou sairão da barbearia, caso todas cadeiras estiverem ocupadas. Pode ser utilizado o semaforo binário para não ocorrer condições de disputa. 
