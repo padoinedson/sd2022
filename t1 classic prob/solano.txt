@@ -1,7 +1,11 @@
 Nome: Solano Kruger
+Problema : Problema do Produtor-Consumidor
+Categoria: Algoritmo de Exclusão
 
-problema: Problema do Produtor-Consumidor
+Descricao: Consiste no problema de acesso a um local comparitlhado (zona critica), onde os produtores produzem os dados e colocam em um buffer e os consumidores retiram essa informacao do buffer.
+Um exemplo básico seria um semáforo onde o sinal vermelho poderia representar a produção de informaçẽos do produtor e o sinal verde, para o consumidor consumir essas informações.
 
-descricao: Consiste no problema de acesso a um local, onde os produtores produzem os dados e colocam em um buffer e os consumidores retiram essa informacao de la.
-
+Ponto de Vista:
 Melhor algoritmo de eleição: Algoritmo de Bully, pois possui uma quantidade de transações informações, visto que somente é retornado quando um processo informa que possui uma "força" maior.
+
+Melhor algoritmo de exclusão: Algoritmo Token Ring, pois todos os elementos terão a oportunidade de acessar o recurso compartilhado, como é baseada em um circulo, depende somente da ficha passar por ele para conseguir acessar a região critica, o que causa menso problemas, sendo que somente 1 por vez pode acessar.
