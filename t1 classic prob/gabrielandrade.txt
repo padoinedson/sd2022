@@ -1,4 +1,4 @@
-gabriel de andrade
+Nome:gabriel de andrade
 
 problema: produtor consumidor
 
@@ -11,4 +11,11 @@ Um sistema é composto por entidades produtoras e entidades consumidoras.
 -Consomem os itens armazenados no buffer (ou na fila).
 - Itens consumidos podem ser de qualquer produtor.
 
-o melhor algoritimo de eleição é Bully
+categoria:exclusão.
+
+exemplo:Um exemplo básico seria um semáforo onde o sinal vermelho representa a produção de informações do produtor e o sinal verde, para o consumidor consumir essas informações
+
+
+O problema do produtor e consumidor é importante para que n aja conflito entre as entidades,exigem uma solução baseada no uso das ferramentas de gerenciamento de execução de tarefas paralelas. 
+
+
