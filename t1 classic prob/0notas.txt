@@ -1,0 +1,19 @@
+  253 Apr 12 16:29 carlos.txt   5
+  601 May 24 21:02 daiane.txt   8
+   11 Apr 12 16:29 douglas.txt   0
+  543 Apr 12 16:29 fernandaaaaaa   7
+  869 May 24 21:02 gabrielandrade.tx   7
+  423 Apr 12 16:29 Giseli_T_Torquetti.txt 8
+  593 Apr 12 16:29 Gustavo-trab.txt  8
+   83 Apr 12 16:29 igor.txt  2
+  215 Apr 12 16:29 jean.txt  4
+  457 Apr 12 16:29 joaosamuelgomes.txt  4
+  400 Apr 12 16:29 Leonardo.txt  6
+  114 Apr 12 16:29 Mauricio.txt  3
+  255 Apr 12 16:29 pedro.txt  
+  379 Apr 27 15:53 README.txt
+   61 Apr 12 16:29 sabrinaeleicao
+  892 Apr 12 16:29 sabrinakg.txt
+ 1017 May 24 21:02 solano.txt
+  386 Apr 27 20:49 tiago pinz.txt
+  562 Apr 12 16:29 tiagotreter.txt
