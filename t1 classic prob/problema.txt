@@ -1,9 +1,0 @@
-nome: tiago pinz graffunder
-
-problema: algoritmo do ditador
-
-descrição: Quando um processo em sistemas distribuídos nota que o coordenador não está respondendo,
-todos revogam seus trabalhos e se inicia uma eleição para o novo coordenador para a retomada destes
-trabalhos. O processo com o maior ID será eleito o novo coordenador atraveś de um processo.
-
-ponto de vista: .......
