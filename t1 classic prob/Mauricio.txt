@@ -1,5 +1,10 @@
+
+Algoritmo de Peterson
+
+Funcionamento:O algoritmo utiliza duas variáveis, flag e turn . A flag[n] o valor true indica que o processo quer entrar na seção crítica. A variável turn guarda o ID do processo que tem a vez. A entrada para a seção crítica é concedido para o processo P0 se P1 não quer entrar em sua seção crítica ou se P1 tem dado prioridade ao P0, definindo turn para 0.É uma técnica usada em programação concorrente para evitar que dois processos ou threads tenham acesso simultaneamente a um recurso compartilhado, acesso esse denominado por seção crítica.
+
 Qual o melhor algoritmo de eleição?
 
-O Melhor Algoritmo de eleição é o Algoritmo do Anel
+Depende do problema que deveŕa ser resolvido, porém o Algoritmo do Anel é muito eficiente em diversos casos.
 
 Mauricio Lindemann
