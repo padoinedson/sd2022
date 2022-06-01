@@ -10,10 +10,9 @@
   457 Apr 12 16:29 joaosamuelgomes.txt  4
   400 Apr 12 16:29 Leonardo.txt  6
   114 Apr 12 16:29 Mauricio.txt  3
-  255 Apr 12 16:29 pedro.txt  
-  379 Apr 27 15:53 README.txt
-   61 Apr 12 16:29 sabrinaeleicao
-  892 Apr 12 16:29 sabrinakg.txt
- 1017 May 24 21:02 solano.txt
-  386 Apr 27 20:49 tiago pinz.txt
-  562 Apr 12 16:29 tiagotreter.txt
+  255 Apr 12 16:29 pedro.txt  4
+   61 Apr 12 16:29 sabrinaeleicao 1
+  892 Apr 12 16:29 sabrinakg.txt 5
+ 1017 May 24 21:02 solano.txt 8
+  386 Apr 27 20:49 tiago pinz.txt 4
+  562 Apr 12 16:29 tiagotreter.txt 3
