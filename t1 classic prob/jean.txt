@@ -3,3 +3,7 @@ nome: Jean Schäffel Moreira
 problema: token ring
 
 descrição: o token ring é um algoritmo que tem por objetivo garantir a exclusividade a quem está utilizando ou irá utilizar o recurso, utilizando uma "ficha".
+
+categoria: eleição
+
+acredito que o algoritmo token ring é o mais eficiente por ser de fácil implementação e ter poucas trocas de mensagens
