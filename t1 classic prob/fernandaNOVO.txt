@@ -1,0 +1,14 @@
+Nome: Fernanda Sereno
+Problema: Algoritmo do Jantar dos Filósofos
+Categoria: Algoritmos de exclusão mútua
+Descricao: Ele é um algoritmo de sincronização de exclusão mútua que tem como objetivo resolver problemas de deadlock e starvation. Cinco filósofos estão ao redor de uma mesa, cada um deles tem um prato de espaguete, cada prato tem um garfo. Os filósofos só conseguem comer com dois garfos, então eles tem que compartilhar os garfos entre eles. O ideal é ter um algoritmo que consiga fazer isso sem que nenhum dos filósofos fique travado sem comer, entre outros.
+
+Melhor algoritmo de Exclusão Mútua: 
+Acredito que seja o do Token Ring, porque tem menos chances de dar deadlock e starvation, já que apenas aquele que tiver o token vai poder acessar a região crítica e porque todos têm a chance de acessar a sua região.
+O processo falha se tiver perda do token, enquanto os outros qualquer processo falha. 
+
+Melhor algoritmo de Eleição:
+Acredito que seja o de Anel, pois comparado aos outros ele é mais eficiente.
+
+Melhor algoritmo de Relógio:
+Acredito que seja o de Lamport.
