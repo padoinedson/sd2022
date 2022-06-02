@@ -1,7 +1,10 @@
+bruno.txt
   253 Apr 12 16:29 carlos.txt   5
   601 May 24 21:02 daiane.txt   8
    11 Apr 12 16:29 douglas.txt   0
   543 Apr 12 16:29 fernandaaaaaa   7
+fernandaNOVO.txt
+fernandaaaaaa
   869 May 24 21:02 gabrielandrade.tx   7
   423 Apr 12 16:29 Giseli_T_Torquetti.txt 8
   593 Apr 12 16:29 Gustavo-trab.txt  8
@@ -10,9 +13,37 @@
   457 Apr 12 16:29 joaosamuelgomes.txt  4
   400 Apr 12 16:29 Leonardo.txt  6
   114 Apr 12 16:29 Mauricio.txt  3
+Pamela.txt
   255 Apr 12 16:29 pedro.txt  4
    61 Apr 12 16:29 sabrinaeleicao 1
   892 Apr 12 16:29 sabrinakg.txt 5
  1017 May 24 21:02 solano.txt 8
   386 Apr 27 20:49 tiago pinz.txt 4
   562 Apr 12 16:29 tiagotreter.txt 3
+wendel.txt
+
+
+
+ t1 classic prob/Mauricio.txt        | 24 +++++++++++++++++++++---
+ t1 classic prob/Pamela.txt          | 12 ++++++++++++
+ t1 classic prob/bruno.txt           | 21 +++++++++++++++++++++
+ t1 classic prob/douglas.txt         |  8 +++++++-
+ t1 classic prob/fernandaNOVO.txt    | 14 ++++++++++++++
+ t1 classic prob/fernandaaaaaa       |  3 ---
+ t1 classic prob/gabrielandrade.txt  |  2 +-
+ t1 classic prob/igor.txt            | 14 ++++++++++++--
+ t1 classic prob/jean.txt            |  6 +++++-
+ t1 classic prob/joaosamuelgomes.txt |  2 +-
+ t1 classic prob/pedro.txt           |  4 ++++
+ t1 classic prob/tiago pinz.txt      |  4 +++-
+ t1 classic prob/tiagotreter.txt     |  7 +++++--
+ t1 classic prob/wendel.txt          |  9 +++++++++
+ t1/tiagograffunder.txt              | 10 ++++++++++
+ 16 files changed, 126 insertions(+), 15 deletions(-)
+ create mode 100644 Baile.txt
+ create mode 100644 t1 classic prob/Pamela.txt
+ create mode 100644 t1 classic prob/bruno.txt
+ create mode 100644 t1 classic prob/fernandaNOVO.txt
+ delete mode 100644 t1 classic prob/fernandaaaaaa
+ create mode 100644 t1 classic prob/wendel.txt
+ create mode 100644 t1/tiagograffunder.txt
