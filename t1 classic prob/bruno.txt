@@ -1,0 +1,21 @@
+Sistemas Distribuídos
+Trabalho I - Problemas Clássicos 
+Peso: 10 pontos
+=============================================================
+
+Avaliação da atividade:
+-----------------------
+
+
+
+
+Entrega do trabalho:
+--------------------
+- Entregar no github um arquivo com o (seu_nome.txt) contendo: 
+
+Nome:Bruno
+Problema: algoritmo de berkeley
+Categoria (exclusão/eleição): sincronização
+Descrição: consulta periodicamente cada uma das máquinas sobre os valores de seus relógios
+Ponto de vista: melhor algoritmo pois se mostra o mais eficiente
+
