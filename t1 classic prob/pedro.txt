@@ -3,3 +3,7 @@ nome: Pedro
 problema: token ring
 
 descrição: se trata de um algoritmo que funciona em uma serie de processos dispostos em formato de anel, onde um token vai ser passado por cada elemento o permitindo utilizar o recurso e logo após o passando adiante.
+
+se trata de um algoritmo de eleição
+
+em relação aos outros algoritmos semelhantes, o algoritmo token ring é uma boa escolha por se tratar de um algoritmo de simples implementação, e onde não ocorre problemas como de starvation por exemplo

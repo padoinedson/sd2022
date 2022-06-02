@@ -1,13 +1,16 @@
 
-
 Nome: Tiago Gabriel Woiciechovski Treter
-
 
 Problema: Relógio Lógico de Lamport
 
+Categoria: Algoritmo de exclusão mútua.
 
 Descrição:  - O Relógio Lógico de Lamport foi criado por Leslie Lamport.
             - É um procedimento para determinar a ordem cronológica dos eventos/processos.
             - Fornece uma base para um algoritmo de Relógio Vetorial mais avançado.
             - Basicamente quando um processo é iniciado é registrado um timestamp que é comparado com o timestamp
  do próximo processo que é iniciado, assim é dada preferência a execução do processo mais antigo.
+
+Ponto de vista: Tipos diferentes de algoritmos podem ser perfeitos para tarefas diferentes,
+acho que o algoritmo centralizado é o melhor pois pode manter um controle do que pode e o
+que não pode entrar na seção crítica, dando prioridade a tarefas que deveriam ter prioridade.

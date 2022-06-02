@@ -2,8 +2,10 @@ nome: tiago pinz graffunder
 
 problema: algoritmo do ditador
 
+categoria: eleição
+
 descrição: Quando um processo em sistemas distribuídos nota que o coordenador não está respondendo,
 todos revogam seus trabalhos e se inicia uma eleição para o novo coordenador para a retomada destes
 trabalhos. O processo com o maior ID será eleito o novo coordenador atraveś de um processo.
 
-ponto de vista: .......
+ponto de vista: Dependerá do uso, mas os algortimos dos generais bizantinos e do ditador, gera muito tráfego de mensagens, e podem ocasionar eleições e mensagens desnecessárias, tornando demorado o processo de escolha de um novo coordenador, e levando em conta que neste tempo os processos ficam parados. Neste caso o algortimo do anel é mais eficiente.
