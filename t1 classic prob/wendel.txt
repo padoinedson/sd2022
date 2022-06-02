@@ -1,0 +1,9 @@
+
+
+Nome:  Wendel Muryel Schulz Santos
+
+Problema: Algoritmo de Berkeley
+
+Descrição: Usado para a sincronização de máquinas. O "servidor de tempo" consulta do tempo dos relógios das máquinas a serem sincronizadas, após é calculada uma média de tempo, e passado esse valor para que as máquinas adicionem ou subtraiam dos valores de seus relógios, para que ambas fiquem com horários sincronizados. Caso o servidor falhe, um novo é eleito.
+
+Ponto de vista: O melhor algoritmo a ser usado, depende diretamente do problema a ser solucionado, porém o Algoritmo de Berkeley é uma solução simples de ser implementada.
