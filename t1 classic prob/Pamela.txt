@@ -4,17 +4,9 @@ Peso: 10 pontos
 =============================================================
 
 Avaliação da atividade:
------------------------
 
-
-
-
-Entrega do trabalho:
---------------------
-- Entregar no github um arquivo com o (seu_nome.txt) contendo: 
-
-Nome: 
-Problema: 
+Nome: Pâmela Hofstatter 
+Problema:  barbeiro dorminhoco
 Categoria (exclusão/eleição):
-Descrição:
-Ponto de vista: 
+Melhor Algoritmo:O algoritmo de Anel
+Descrição: Programar o barbeiro e os clientes sem cair em condições de disputa.Equivale a manter o barbeiro ocupado enquanto há clientes, e descansando quando não há nenhum (fazendo isso de uma maneira ordenada).
