@@ -1,1 +1,7 @@
-0000000000
+Nome: Douglas Bosse
+
+Algoritmo: Algoritmo em anel
+
+Descrição:No algoritmo de eleição de líder em anel, cada processo mantém comunicação somente com seus vizinhos à esquerda e à direita, sendo que os vizinhos de Pk são, respectivamente, Pk-1 e Pk+1. Como a comunicação se dá no sentido horário, Pk recebe mensagens de Pk-1 e envia mensagens para Pk+1 anexando seu ID ("força") à cada mensagem enviada. Pk anexa à mensagem seu IDk e envia a mensagem para Pk+1. 
+
+Comparação:O Algortimo em Anel é um dos algoritmos clássicos para eleição de líder em sistemas distribuídos. Esse algoritmo realiza a eleição considerando uma rede de sobreposição em anel, o que significa que os processos se comunicam ao redor de um anel no sentido horário. Para esse algoritmo, é considerado que cada processo tenha uma espécie de "força", ou seja, um identificador (ID), onde o processo que possui a maior "força" (identificador) dentre todos os processos que não estejam em estado de falha pode ser eleito o líder. Para esses casos, será considerado que os processos tenham "forças" distintas. 
