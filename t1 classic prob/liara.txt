@@ -1,0 +1,20 @@
+Nome: Liara Freitas
+
+Problema: Algoritmo Ditador
+
+Descrição: Quando um processo em sistemas distribuídos nota
+que o coordenador não está respondendo,todos revogam seus trabalhos
+e se inicia uma eleição para o novo coordenador.
+
+06/04/2022
+
+O algoritmo dos Generais Bizantinos é considerado melhor que o algoritmo 
+Ditador, e isto se deve ao fato de que o algoritmo Ditador gera um grande 
+tráfego, pois, caso um processo deseja se tornar Coordenador ele irá
+encaminhar uma mensagem para todos os processos com ID maiorque o dele
+após, encontrar um ID superior este processo irá verificar com os outros 
+processos que possuem ID superior se este pode se tornar o novo Coordenador 
+e assim será realizado de forma sucessiva até ser eleito um novo Coordenador.
+
+ 
+
