@@ -1,26 +1,26 @@
-bruno.txt
-  253 Apr 12 16:29 carlos.txt   5
-  601 May 24 21:02 daiane.txt   8
-   11 Apr 12 16:29 douglas.txt   0
-  543 Apr 12 16:29 fernandaaaaaa   7
+bruno.txt    0 5
+carlos.txt   5 5
+daiane.txt   8 8
+douglas.txt   0 8
+fernandaaaaaa   7 8
 fernandaNOVO.txt
-fernandaaaaaa
-  869 May 24 21:02 gabrielandrade.tx   7
-  423 Apr 12 16:29 Giseli_T_Torquetti.txt 8
-  593 Apr 12 16:29 Gustavo-trab.txt  8
-   83 Apr 12 16:29 igor.txt  2
-  215 Apr 12 16:29 jean.txt  4
-  457 Apr 12 16:29 joaosamuelgomes.txt  4
-  400 Apr 12 16:29 Leonardo.txt  6
-  114 Apr 12 16:29 Mauricio.txt  3
-Pamela.txt
-  255 Apr 12 16:29 pedro.txt  4
-   61 Apr 12 16:29 sabrinaeleicao 1
-  892 Apr 12 16:29 sabrinakg.txt 5
- 1017 May 24 21:02 solano.txt 8
-  386 Apr 27 20:49 tiago pinz.txt 4
-  562 Apr 12 16:29 tiagotreter.txt 3
-wendel.txt
+gabrielandrade.tx   7 8
+Giseli_T_Torquetti.txt 8 8
+Gustavo-trab.txt  8 9
+igor.txt  2  7
+jean.txt  4  8
+joaosamuelgomes.txt  4 6
+Leonardo.txt  6  6
+Liara   0  8
+Mauricio.txt  3  7
+Pamela.txt    0  6
+pedro.txt  4   6
+sabrinaeleicao 1  1
+sabrinakg.txt 5  5
+solano.txt 8  8
+tiago pinz.txt 4  7 
+tiagotreter.txt 3  6
+wendel.txt      0  5
 
 
 
