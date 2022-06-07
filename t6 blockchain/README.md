@@ -24,7 +24,17 @@ https://www.skeps.com/blog/deploying-blockchain-applications-with-docker
 https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1115737/tutorial-para-instalacao-e-utilizacao-da-rede-blockchain-ethereum-no-ubuntu-linux
 
 
+## Instalando Ethereum Blockchain em container docker
+https://www.youtube.com/watch?v=wjcL39RHAGs
+https://github.com/meloflavio/tutorial_ethereum/blob/master/README.md
 
+
+## Bora codar uma blockchain DO ZERO
+https://www.youtube.com/watch?v=ztQEaQ06GYs
+
+
+## Montando e Testando Rede Privada Ethereum
+https://www.youtube.com/watch?v=2TOlBH8z6ws
 
 
 
