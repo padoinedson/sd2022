@@ -3,11 +3,15 @@
 https://jamesmiller.blog/5-methods-for-setting-up-a-private-blockchain-network/
 https://medium.com/scb-digital/running-a-private-ethereum-blockchain-using-docker-589c8e6a4fe8
 
+
 ## How to Setup Your Own Private Ethereum Network?
 https://www.geeksforgeeks.org/how-to-setup-your-own-private-ethereum-network/
 
 
-https://www.nvidia.com/en-us/training/online/
+## Crie agora a sua Rede Ethereum Privada com Docker!
+https://vertigo.com.br/criando-sua-rede-ethereum-privada-com-docker/
+
+
 ## Private Ethereum Network in Docker
 https://github.com/vishnusudarsan/private-ethereum-docker
 

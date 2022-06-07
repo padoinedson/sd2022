@@ -11,7 +11,7 @@ igor.txt  2  7
 jean.txt  4  8
 joaosamuelgomes.txt  4 6
 Leonardo.txt  6  6
-Liara   0  8
+Liara   0  9
 Mauricio.txt  3  7
 Pamela.txt    0  6
 pedro.txt  4   6
