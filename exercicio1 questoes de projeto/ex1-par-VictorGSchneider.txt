@@ -1,0 +1,47 @@
+Sistemas Distribuídos
+Exercício I - Questões de projeto
+=============================================================
+
+Descrição da atividade:
+-----------------------
+
+Escolher um sistema distribuído
+
+BITCOIN
+
+Avaliar as 7 questões de projeto:
+
+1 - Transparência:
+
+É totalmente transparente, pois tem seu código fonte aberto e não possui organizações centralizadoras;
+
+2 - Heterogeneidade:
+
+Não é muito heterogeneo, pois todos os nós rodam praticamente o mesmo programa, no máximo algumas versões atrás, mas têm-se o incentivo a estar sempre atualizado na versão mais recente. Entretanto, se muitos mineradores se juntarem, eles podem criar uma bifurcação na rede, diferindo em demasia e basicamente criando outra moeda através de um hardfork, como ocorreu com o bitcoin Cash em 2017;
+
+3 - Flexibilidade:
+
+É muito flexível, pois pode ser instalado em qualquer máquina, bastando ter armazenamento suficiente, no caso dos nós verificadores, e poder de processamento para os nós mineradores, independente do sistema operacional;
+
+4 - Segurança:
+
+É completamente seguro, pois em 13 anos de existência, teve pouco mais de 50 CVEs, sendo todos rapidamente corrigidos e não explorados de maneira maliciosa; Também possui extrema segurança no quesito acesso aos fundos e nodos de rede;
+
+5 - Escalabilidade:
+
+É completamente escalável, pois ele se ajusta automaticamente em relação à potência de mineração e também verificação;
+
+6 - Tolerância a Falhas:
+
+Considerando o fato de que a milhares de nós verificadores e também mineradores, ele é extremamente resiliente a falhas, pois essa abundância de máquinas o rodando confere redundância comleta de dados e transações;
+
+7 - Concorrência: 
+
+Não possui concorrentes, apenas imitadores que se dizem concorrentes, mas não possuem descentralização e segurança em níveis satisfatórios;
+
+Entrega do trabalho:
+--------------------
+- Entregar no github pasta `exercicio 1` um arquivo (seu_nome.txt) com as respostas
+
+
+
