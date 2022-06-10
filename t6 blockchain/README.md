@@ -37,8 +37,8 @@ https://github.com/meloflavio/tutorial_ethereum/blob/master/README.md
 https://www.youtube.com/watch?v=ztQEaQ06GYs
 
 
-## Montando e Testando Rede Privada Ethereum
-https://www.youtube.com/watch?v=2TOlBH8z6ws
+
+
 
 
 
